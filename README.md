@@ -67,14 +67,14 @@ Classe de suporte para o índice de busca rápida, vinculando o código alfanum�
 ## Exclusão Lógica e Reuso
 O sistema não remove fisicamente o registro imediatamente.  
 Em vez disso:
-1. Marca o registro com uma **lápide**
-2. Insere o endereço na lista de espaços disponíveis para reaproveitamento
+- Marca o registro com uma **lápide**
+- Insere o endereço na lista de espaços disponíveis para reaproveitamento
 
 <img width="778" height="662" alt="Screenshot 2026-05-13 092748" src="https://github.com/user-attachments/assets/8f8b919b-3cf2-49a3-b1c7-42891c095790" />
 
 
 ## Gestão de Inscritos
-O proponente do curso pode:
+O gestor do curso pode:
 - Visualizar a lista de inscritos
 - Exportar os dados para o formato **CSV**
 
