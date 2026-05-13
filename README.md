@@ -130,4 +130,4 @@ Garantindo que a visualização de **"Minhas Inscrições"** seja imediata.
 > `Sim`
 
 - O trabalho é original e não a cópia de um trabalho de outro grupo.
-> Sim
+> `Sim`
